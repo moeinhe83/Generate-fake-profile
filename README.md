@@ -4,7 +4,7 @@ This Program Will Randomly Generate Email And Name For You
 
 Programming Language ===> Python 
 
-Description Of Files
+Description Of Program Files
 
 fake_linux.py ===> For Linux [Ubuntu Or Kali]
 
