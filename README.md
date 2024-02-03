@@ -14,7 +14,7 @@ fake_windows.py ===> For Windows
 
 For Run ===> python fake_windows.py
 
-Required packages For Python
+Required Python packages for this program
 
 faker ===> To install => pip install faker
 
