@@ -1,6 +1,6 @@
 This Program Generates Fake Profiles For You For Example Fake Email , Fake Name
 
-This Program Will Randomly Generate Email And Name For You
+Program Description ===> This Program Will Randomly Generate Email And Name For You
 
 Programming Language ===> Python 
 
