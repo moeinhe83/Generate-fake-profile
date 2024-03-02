@@ -1,3 +1,5 @@
+Project Name ===> Generate Fake Profile
+
 This Program Generates Fake Profiles For You For Example Fake Email , Fake Name
 
 Program Description ===> This Program Will Randomly Generate Email And Name For You
