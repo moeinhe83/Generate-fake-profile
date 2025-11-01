@@ -6,6 +6,8 @@ Program Description ===> This Program Will Randomly Generate Email And Name For 
 
 Programming Language ===> Python 
 
+For Module => python -m pip install -r library.txt
+
 Description Of Program Files:
 
 fake_linux.py ===> For Linux [Ubuntu Or Kali]
